@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/rhys5690/scaffold_helper/issues"
   },
-  "homepage": "https://github.com/rhys5690/scaffold_helper#readme"
+  "homepage": "https://github.com/rhys5690/scaffold_helper#readme",
+  "dependencies": {
+    "commander": "^2.15.0"
+  }
 }
